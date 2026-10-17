@@ -10,7 +10,7 @@ This project analyzes the UCI Online Retail dataset using Microsoft Excel. It fo
 
 The dashboard brings the main findings together in one place, making it easier to explore sales performance and compare different aspects of the business.
 
-![Online Retail Sales Analysis Dashboard](image/dashboard.png)
+![Online Retail Sales Analysis Dashboard](images/dashboard.png)
 
 ## Dashboard Insights
 
@@ -18,31 +18,31 @@ The dashboard brings the main findings together in one place, making it easier t
 
 This chart compares sales revenue across countries and highlights the geographic distribution of revenue.
 
-![Sales by Country](image/sales-by-country.png)
+![Sales by Country](images/sales-by-country.png)
 
 ### 2. Monthly Sales Trend
 
 This chart illustrates how sales revenue changes over time and helps identify monthly patterns.
 
-![Monthly Sales Trend](image/monthly-sales-trend.png)
+![Monthly Sales Trend](images/monthly-sales-trend.png)
 
 ### 3. Top 10 Products by Quantity
 
 This chart identifies the products with the highest quantities sold.
 
-![Top 10 Products by Quantity](image/top-10-products.png)
+![Top 10 Products by Quantity](images/top-10-products.png)
 
 ### 4. Invoice Count by Country
 
 This chart compares invoice activity across countries using distinct invoice counts.
 
-![Invoice Count by Country](image/invoice-count-by-country.png)
+![Invoice Count by Country](images/invoice-count-by-country.png)
 
 ### 5. Top 10 Products by Revenue
 
 This chart highlights the products generating the highest sales revenue.
 
-![Top 10 Products by Revenue](image/top-10-products-by-sales.png)
+![Top 10 Products by Revenue](images/top-10-products-by-sales.png)
 
 ## Dataset
 
